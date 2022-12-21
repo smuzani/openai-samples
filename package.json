@@ -1,0 +1,25 @@
+{
+  "name": "openai-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smuzani/openai-samples.git"
+  },
+  "keywords": [
+    "openai"
+  ],
+  "author": "Muz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smuzani/openai-samples/issues"
+  },
+  "homepage": "https://github.com/smuzani/openai-samples#readme",
+  "dependencies": {
+    "openai": "^3.1.0"
+  }
+}
