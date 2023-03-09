@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/smuzani/openai-samples#readme",
   "dependencies": {
-    "openai": "^3.1.0"
+    "openai": "^3.2.1"
   }
 }
