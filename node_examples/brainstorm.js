@@ -9,7 +9,8 @@ async function start() {
   const myArgs = process.argv.slice(2);
   const topic = myArgs[0];
   const prompt = topic + "\nLet's think step by step."
-  const response = await openai.createCompletion("text-davinci-003", {
+  const response = await openai.createCompletion({
+    model: "text-davinci-003",
     prompt: prompt,
     temperature: 0.69,
     max_tokens: 250,
