@@ -45,6 +45,7 @@ This repo contains several samples:
 
 - **brainstorm.js**: Generate ideas and suggestions for a given topic.
 - **emojis.js**: Express your deepest, most complex emotions through the medium of tiny, pixelated images.
+- **examhelp.js**: Help explain solutions to people studying for an exam.
 - **portrayal.js**: Generate a detailed portrayal of a given concept, whether it's a description of a sunset or a sweet potato.
 - **poetry.js**: Write poetry based on a title and some ingredients. It can also be used to write bug reports. 
 - **titles.js**: Generate a title around a concept, suited for PowerPoint presentations or book titles.
